@@ -1,4 +1,4 @@
-- 👋 Hi, I’m H. İpek Karagöz.
+- 👋 Hi, I’m Hava İpek Karagöz.
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning C++/Python/HTML/CSS :)
 - 💞️ I’m looking to collaborate on hardworking, determined and cheerful friends.
